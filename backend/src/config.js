@@ -69,6 +69,8 @@ const BASE_URI = null // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = [
   '0x3Ba8FC5bCBfa77398aD6867c9dA7D889D682c6D7',
+  '0x82bB408279625FB71947691C9949e5e8b1Fa59cf',
+  '0x7c2c772c31d841DbA7AE80F2BDFf06443D8199a5',
 ] // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
