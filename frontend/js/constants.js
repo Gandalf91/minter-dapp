@@ -4,7 +4,7 @@ const chain = 'rinkeby' // rinkeby or polygon
 const welcome_h1 = 'Welcome to the Kuku Lala NFT Project!!'
 const welcome_h2 = 'Connect to MetaMask to Get Started'
 const welcome_p =
-  'The Kuku Lala NFT Project is a decentralized, open-source project that aims to bring NFT holders to a new level, let them be able to use those NFTs to get engaged in Play-to-Earn games and generate income. For question please reach us out in the  <a href="https://t.me/kukulalanft"  target="_blank" rel="noopener noreferrer">Kuku Lala NFTs</a> Telegram group.'
+  'The Kuku Lala NFT Project is a decentralized, open-source project that aims to bring NFT holders to a new level, let them be able to use those NFTs to get engaged in Play-to-Earn games and generate income. For questions please reach us out in the  <a href="https://t.me/kukulalanft"  target="_blank" rel="noopener noreferrer">Kuku Lala NFTs</a> Telegram group.'
 const h1_presale_coming_soon = 'NFT Pre-sale Coming Soon!!'
 const h1_presale_mint = 'Pre-Sale Minting Open!!'
 const h1_public_mint = 'Public Minting Open!!'
@@ -13,17 +13,17 @@ const h2_presale_mint = 'Public Minting Countdown'
 const p_presale_coming_soon =
   'We are working hard to launch the NFT Collection. Stay tuned for updates!'
 const p_presale_mint_not_whitelisted =
-  'You are not whitelisted for the pre-sale.. 😢'
+  'You are not whitelisted for the Pre-sale... 😢'
 const p_presale_mint_whitelisted =
-  "You're on the whitelist for the pre-sale! 🎉"
+  "You're on the whitelist for the Pre-sale! 🎉"
 const p_presale_mint_already_minted =
   "You've already claimed your whitelist mint. Thank you! 🎉"
 const p_public_mint = 'No whitelist needed. Public minting is now open! 🎉'
 const button_presale_coming_soon = 'Get on the Whitelist'
-const button_presale_mint_whitelisted = 'Mint Your Special NFT'
+const button_presale_mint_whitelisted = 'Mint Your Kuku Lala NFT'
 const button_presale_mint_not_whitelisted = 'Get on the Whitelist'
 const button_presale_already_minted = 'Join The Community'
-const button_public_mint = 'Mint Your NFT'
+const button_public_mint = 'Mint Your NFTs'
 const mint_failed = 'Minting failed. 😢 Please try again.'
 
 const abi = [
