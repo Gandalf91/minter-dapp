@@ -46,31 +46,29 @@ const extraMetadata = {
 // ** REQUIRED **
 const AUTH = process.env.NFTPORT_API_KEY // Set this in the .env file to prevent exposing your API key when pushing to Github
 const LIMIT = 2 // Your API key rate limit
-const CHAIN = 'rinkeby' // only rinkeby or polygon
+const CHAIN = 'polygon' // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'Kuku Lala'
 const CONTRACT_SYMBOL = 'KLA'
 const METADATA_UPDATABLE = true // set to false if you don't want to allow metadata updates after minting
-const OWNER_ADDRESS = '0x3Ba8FC5bCBfa77398aD6867c9dA7D889D682c6D7'
-const TREASURY_ADDRESS = '0x3Ba8FC5bCBfa77398aD6867c9dA7D889D682c6D7'
+const OWNER_ADDRESS = '0xEb45AB6B7BE6cBA3981Ed9199C2f52eC27455bcC'
+const TREASURY_ADDRESS = '0xEb45AB6B7BE6cBA3981Ed9199C2f52eC27455bcC'
 const MAX_SUPPLY = 5000 // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
-const MINT_PRICE = 0.001 // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
+const MINT_PRICE = 29 // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 3 // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = '2022-05-20T11:30:48+00:00' // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = '2022-04-21T11:30:48+00:00' // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = '2022-03-25T11:30:48+00:00' // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = '2022-04-17T03:00:00+00:00' // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000 // Percentage of the token price that goes to the royalty address. 100 bps = 1%
-const ROYALTY_ADDRESS = '0x3Ba8FC5bCBfa77398aD6867c9dA7D889D682c6D7' // Address that will receive the royalty
+const ROYALTY_ADDRESS = '0xEb45AB6B7BE6cBA3981Ed9199C2f52eC27455bcC' // Address that will receive the royalty
 const BASE_URI = null // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = [
-  '0x3Ba8FC5bCBfa77398aD6867c9dA7D889D682c6D7',
-  '0x82bB408279625FB71947691C9949e5e8b1Fa59cf',
-  '0x7c2c772c31d841DbA7AE80F2BDFf06443D8199a5',
+  '0xEb45AB6B7BE6cBA3981Ed9199C2f52eC27455bcC',
 ] // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
