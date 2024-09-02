@@ -4,7 +4,7 @@ const chain = 'polygon' // rinkeby or polygon
 const welcome_h1 = 'Welcome to the CHUBI NFT Project!!'
 const welcome_h2 = 'Connect to MetaMask to Get Started'
 const welcome_p =
-  ' CHUBI NFTs aim to bring NFT holders additional 25% yield per each NFT minted. After investing in FastMatic can mint NFTs and get your monthly return rate increased by 25-75%. So, if, for instance,  mint 2 NFTs, you will get 350% return monthly in FastMatic. Max 3 NFTs per user. For questions please reach us out in the  <a href="https://t.me/fastmaticofficial"  target="_blank" rel="noopener noreferrer">FastMatic</a> Telegram group.'
+  ' CHUBI NFTs aim to bring NFT holders additional 25% yield per each NFT minted. After investing in FastMatic can mint NFTs and get your monthly return rate increased by 25-75%. So, if, for instance,  mint 2 NFTs, you will get 350% return monthly in FastMatic. Max 3 NFTs per user.'
 const h1_presale_coming_soon = 'NFT Pre-sale Coming Soon!!'
 const h1_presale_mint = 'Pre-Sale Minting Open!!'
 const h1_public_mint = 'Public Minting Open!!'
