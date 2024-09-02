@@ -39,7 +39,7 @@ const format = {
 }
 
 const extraMetadata = {
-  external_url: 'https://mintcryptonfts.com/', // Replace with your website or remove this line if you do not have one.
+  external_url: 'https://chubinft.live/', // Replace with your website or remove this line if you do not have one.
 }
 
 // NFTPort Info
@@ -60,10 +60,10 @@ const MINT_PRICE = 29 // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. 
 const TOKENS_PER_MINT = 3 // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = '2024-06-16T20:00:00+00:00' // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = '2024-04-19T20:00:00+00:00' // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = '2024-03-25T00:00:00+00:00' // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = '2024-04-17T18:00:00+00:00' // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000 // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = '0xEb45AB6B7BE6cBA3981Ed9199C2f52eC27455bcC' // Address that will receive the royalty
 const BASE_URI = null // only update if you want to manually set the base uri
@@ -79,7 +79,7 @@ let CONTRACT_ADDRESS = '0xF4db9a59334fA39d2fA158d48028edAb6E5636b9' // If you wa
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = true // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME // Replace with what you want the generic titles to say if you want it to be different from the contract name.
-const GENERIC_DESCRIPTION = 'Which Kuku Lala will you get?' // Replace with what you want the generic descriptions to say.
+const GENERIC_DESCRIPTION = 'Which Chubi will you get?' // Replace with what you want the generic descriptions to say.
 const GENERIC_IMAGE =
   'https://ipfs.io/ipfs/bafkreihsvgo36xinqujyy3lceyjrmnxg56uswvj2lzt3tfp4b4mzy6k53e' // Replace with your generic image that will display for all NFTs pre-reveal.
 
