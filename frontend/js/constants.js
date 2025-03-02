@@ -3,7 +3,8 @@ const chain = 'polygon' // rinkeby or polygon
 
 const welcome_h1 = 'Welcome to the CHUBI NFT Project!!'
 const welcome_h2 = 'Connect to MetaMask to Get Started'
-const welcome_p = 'hi there'
+const welcome_p =
+  'Mint CHUBI NFTs to receive passive income on your CHUBI token holdings! Learn more in our TG and X pages.'
 const h1_presale_coming_soon = 'NFT Pre-sale Coming Soon!!'
 const h1_presale_mint = 'Pre-Sale Minting Open!!'
 const h1_public_mint = 'Public Minting Open!!'
