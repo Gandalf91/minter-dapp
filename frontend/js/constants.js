@@ -3,11 +3,7 @@ const chain = 'polygon' // rinkeby or polygon
 
 const welcome_h1 = 'Welcome to the CHUBI NFT Project!!'
 const welcome_h2 = 'Connect to MetaMask to Get Started'
-const welcome_p =
-  'The Chubi NFT Project is a decentralized unique 1k NFT collection that
-  offers its holders passive income based on the amount of CHUBI tokens
-  they hold on Solana blockchain. Buy CHUBI tokens, Mint NFTS and
-  receive passive income.'
+const welcome_p = 'hi there'
 const h1_presale_coming_soon = 'NFT Pre-sale Coming Soon!!'
 const h1_presale_mint = 'Pre-Sale Minting Open!!'
 const h1_public_mint = 'Public Minting Open!!'
